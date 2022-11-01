@@ -1,0 +1,12 @@
+7e584525b54398df818de27c2b86537d *DESCRIPTION
+718a4d43ecdc42c22329508738e290cc *NAMESPACE
+9bf0d0c5bc3342a5292acfbd36682285 *R/minsample1.R
+0b389523231039d78fe6c9c9cc9d150d *build/vignette.rds
+e76b22b20938c588781639394f5f5e2c *inst/doc/Intro_to_minsample1.R
+31c40a5b60abab5949f070927987a566 *inst/doc/Intro_to_minsample1.Rmd
+b61257d1f83b961fee21ebb2366110de *inst/doc/Intro_to_minsample1.html
+d3ef9733ef6eb8dc12ae3c55c5df6faf *man/l_exp.Rd
+28c94270904feb97da12532a73d2ccdc *man/l_norm.Rd
+e3f76d694ac453f20e48ea32e858ad1f *tests/testthat.R
+92a58d1954b4c25c008777385f10aac5 *tests/testthat/test-minsample1.R
+31c40a5b60abab5949f070927987a566 *vignettes/Intro_to_minsample1.Rmd
